@@ -1,0 +1,15 @@
+.footer_links ul span{
+    font-weight: 800;
+}
+
+.footer_links ul li{
+    list-style-type: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+@media only screen and (max-width: 768px){
+	.footer_links {
+        flex-direction: column;
+    }
+}
