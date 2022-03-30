@@ -1,2 +1,2 @@
 # food-delivery-website
-[a link] (https://food-delivery-app-pranav.herokuapp.com/)
+Access the project here:: https://food-delivery-app-pranav.herokuapp.com/
